@@ -14,11 +14,11 @@
   --black-100-a: rgba(0, 0, 0, 0.1);
   --white-400-a: rgba(255, 255, 255, 0.4);
   --white-700-a: rgba(255, 255, 255, 0.7);
-  --white-850-a: rgba(255, 255, 255, 0.85);
-  --purple: purple;
+  --white-850-a: rgba(255, 255, 255, 0.85); 
+  /* --purple: purple;
   --blue: blue;
   --yellow: #fee267;
-  --skyblue: #89cfeb;
+  --skyblue: #89cfeb; */
   --font-size-xs: 0.75rem;
   --font-size-sm: 0.875rem;
   --font-size-base: 1rem;
