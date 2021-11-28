@@ -1,10 +1,10 @@
 {
-  "title": "Yetty",
+  "title": "rez gauche",
   "url": "https://yetty.netlify.app",
   "description": "Yet another Eleventy starter kit for my (& your) new projects with accessibility and performance in mind.",
   "repo": "https://github.com/ygoex/yetty",
   "feed": {
-    "subtitle": "Yet another Eleventy starter kit for my (& your) new projects with accessibility and performance in mind.",
+    "subtitle": "artworks & more",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://yetty.netlify.app/"
