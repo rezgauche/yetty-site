@@ -7,11 +7,11 @@ imgSize: '(min-width: 30em) 50vw, 100vw'
 pictureClass: grid-column-full
 imgClass: img-full
 imgBorderColor: '#3f51b5'
-pageClass: page-about
+pageClass: page-about2
 eleventyNavigation:
   key: About2
-  parent: about
-  order: 1
+  parent: About
+  order: 3
 ---
 
 {% imageMd imgUrl, imgAlt, imgSize, pictureClass, imgClass, imgBorderColor %}
