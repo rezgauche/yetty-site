@@ -1,5 +1,5 @@
 {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-<nav class="{{ params.name | lower | replace(" ", "-") }} display-flex" aria-label="{{ params.name }}">
+<nav class="{{ params.name | lower | replace(" ", " ") }} display-flex" aria-label="{{ params.name }}">
   <ul class="menu__items flex-wrap">
     {%- for item in params.collection | eleventyNavigation %}
       <li class="menu__item{% if item.url == params.page.url %} menu__item--active{% endif %}">
