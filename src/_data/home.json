@@ -1,4 +1,6 @@
 {
-  "h1": "Yet another Eleventy starter kit for my (& your) new projects.",
-  "lead": "Built with accessibility and performance in mind."
+    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+  "h1" : "rez gauche",
+  </strong>
+  "lead": "artworks & more"
 }
