@@ -52,13 +52,13 @@
   --card-background: var(--black);
   --footer-background: var(--black);
   --text-muted: var(--grey-200);
-  --link-color: var(--yellow);
-  --link-color-alt: var(--skyblue);
+  --link-color: var(--white);
+  --link-color-alt: var(--white);
   --footer-color: var(--grey-200);
 
-  img {
-    filter: grayscale(1) brightness(0.8) contrast(1.2);
-  }
+  //img {
+    //filter: grayscale(1) brightness(0.8) contrast(1.2);
+  //}
 
   pre[class*="language-"] {
     margin-top: var(--space-lg-2);
