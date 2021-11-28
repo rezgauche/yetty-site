@@ -10,6 +10,7 @@ imgBorderColor: '#3f51b5'
 pageClass: page-about
 eleventyNavigation:
   key: About2
+  parent: about
   order: 1
 ---
 
