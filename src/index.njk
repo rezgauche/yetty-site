@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Home
-  order: 1
+  order: 4
 ---
 
 {% extends 'layouts/home.njk' %}
@@ -24,5 +24,5 @@ eleventyNavigation:
   {% set postslistCounter = collections.posts | length %}
   {% include "layouts/partials/posts-list.njk" %}
 
-  <p>More posts can be found in the <a class="underline-dashed" href="{{ '/posts/' | url }}">blog</a>.</p>
+  <p>view <a class="underline-dashed" href="{{ '/posts/' | url }}">more</a>.</p>
 {% endblock %}
